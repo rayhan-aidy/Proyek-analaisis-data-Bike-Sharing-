@@ -59,6 +59,7 @@ pipreqs /path/to/your/project
 Setelah semua dependensi terinstal, jalankan aplikasi Streamlit dengan perintah berikut:
 
 ```sh
+cd dashboard
 streamlit run app.py
 ```
 
