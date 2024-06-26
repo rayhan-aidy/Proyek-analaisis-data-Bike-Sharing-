@@ -1,4 +1,3 @@
-```markdown
 # Dicoding Proyek Analisis Data
 
 Proyek ini merupakan implementasi dari analisis data menggunakan Streamlit. Proyek ini bertujuan untuk memberikan wawasan mengenai pola penggunaan berbagi sepeda berdasarkan berbagai faktor seperti musim, cuaca, waktu, dan jenis pengguna.
